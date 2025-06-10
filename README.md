@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a passionate full stack developer with a strong focus on building fast, scalable, and modern websites and web applications. I am proficient in both the front-end and back-end development of web applications MongoDB, Express.js, React, and Node.js.
+Frontend Developer | MERN Stack Trained | Passionate about building responsive, user-friendly interfaces with HTML, CSS, JavaScript, and React.js. Eager to contribute to dynamic teams and deliver impactful user experiences.
 
 
 ## 🌐 Socials:
