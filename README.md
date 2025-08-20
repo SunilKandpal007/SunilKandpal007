@@ -1,5 +1,5 @@
 # 💫 About Me:
-Frontend Developer | MERN Stack Trained | Passionate about building responsive, user-friendly interfaces with HTML, CSS, JavaScript, and React.js. Eager to contribute to dynamic teams and deliver impactful user experiences.
+MERN Stack Developer | Full-Stack Web Applications | Passionate about building scalable, efficient, and user-friendly solutions using MongoDB, Express.js, React.js, and Node.js. Skilled in crafting responsive UIs, designing robust backends, and integrating APIs to deliver seamless user experiences. Always eager to learn, collaborate, and contribute to impactful projects.
 
 
 ## 🌐 Socials:
